@@ -1,2 +1,2 @@
-# getWetherInformation
-WeatherInformation
+# WeatherService
+Restful web service using maven
